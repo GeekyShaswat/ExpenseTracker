@@ -32,4 +32,4 @@ The UI/UX is inspired and designed using Figma to ensure a visually appealing an
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/GeekyShaswat/expense-tracker.git
